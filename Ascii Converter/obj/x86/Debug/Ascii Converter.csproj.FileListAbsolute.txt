@@ -1,0 +1,8 @@
+c:\users\main\documents\visual studio 2010\Projects\Ascii Converter\Ascii Converter\bin\Debug\Ascii Converter.exe
+c:\users\main\documents\visual studio 2010\Projects\Ascii Converter\Ascii Converter\bin\Debug\Ascii Converter.pdb
+c:\users\main\documents\visual studio 2010\Projects\Ascii Converter\Ascii Converter\obj\x86\Debug\Ascii_Converter.Form1.resources
+c:\users\main\documents\visual studio 2010\Projects\Ascii Converter\Ascii Converter\obj\x86\Debug\Ascii_Converter.Properties.Resources.resources
+c:\users\main\documents\visual studio 2010\Projects\Ascii Converter\Ascii Converter\obj\x86\Debug\Ascii Converter.csproj.GenerateResource.Cache
+c:\users\main\documents\visual studio 2010\Projects\Ascii Converter\Ascii Converter\obj\x86\Debug\Ascii Converter.exe
+c:\users\main\documents\visual studio 2010\Projects\Ascii Converter\Ascii Converter\obj\x86\Debug\Ascii Converter.pdb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\Ascii Converter\Ascii Converter\obj\x86\Debug\Ascii Converter.csprojResolveAssemblyReference.cache
